@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+header{
+    width:100vw;
+    height:100vh;
+    background-image:url(https://www.worldatlas.com/upload/84/c1/6a/shutterstock-1031949604.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    text-align:center;
+    margin-top:20px ;
+    margin-bottom: 20px;}
